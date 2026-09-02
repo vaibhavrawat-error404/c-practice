@@ -50,23 +50,23 @@
 // }
 
 //if-else conditions
-// #include<bits/stdc++.h>
-// using namespace std;
-// int main(){
-//     int age;
-//     cin>>age;
-//     if(age>18 && age<=100){
-//         cout<<"you are an adult";
-//     }
-//     else if(age<18 && age>13){
-//         cout<<"you are a teen";
-//     }
-//     else if(age<13){
-//         cout<<"you are a child";
-//     }
-//     else if(age>100){
-//         cout<<"you are dead for sure";
-//     }
+#include<bits/stdc++.h>
+using namespace std;
+int main(){
+    int age;
+    cin>>age;
+    if(age>18 && age<=100){
+        cout<<"you are an adult";
+    }
+    else if(age<18 && age>13){
+        cout<<"you are a teen";
+    }
+    else if(age<13){
+        cout<<"you are a child";
+    }
+    else if(age>100){
+        cout<<"you are dead for sure";
+    }
 
-//     return 0;
-// }
+    return 0;
+}
