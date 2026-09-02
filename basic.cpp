@@ -1,16 +1,11 @@
-#include <iostream>
-using namespace std;
+// #include<iostream>
 
-int main() {
-    int num;
-    cin >> num;
+// using namespace std;
+// int main(){
+//     int a=20;
+//     int b=23;
+//     cout<< a+b;
 
-    if (num > 5) {
-        cout << "hey\n";
-    }
-    else{
-        cout<<"hello\n";
-    }
+//     return 0;
+// }
 
-    return 0;
-}
