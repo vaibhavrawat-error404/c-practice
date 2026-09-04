@@ -1,3 +1,4 @@
-Your name is:Vaibhav Rawat
-Enter your marks to assess your grades:
-A
+Enter 1 if weather is Cloudy else 2:
+You can play outside
+Enter the number of childrens in park
+Do exersize cause there aren't enough player for group games.
