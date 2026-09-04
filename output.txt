@@ -1,4 +1,2 @@
-Enter 1 if weather is Cloudy else 2:
-You can play outside
-Enter the number of childrens in park
-Do exersize cause there aren't enough player for group games.
+Enter number(1-7) for each day of week:
+FRIDAY--end of program--
