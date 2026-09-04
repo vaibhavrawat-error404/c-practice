@@ -1,2 +1,1 @@
-Enter number(1-7) for each day of week:
-FRIDAY--end of program--
+The final sum of all array elements :55
