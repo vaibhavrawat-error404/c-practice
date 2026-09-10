@@ -11,11 +11,19 @@ public:
     int marks[MAX];
 };
 
-void displayStudent(int marks[], int size) {
+void displayStudent(Student s, int size) {
+    cout << "Student Name : " << s.name << endl;
+    cout << "Class        : " << s.studentClass << endl;
+    cout << "Roll No.     : " << s.roll << endl;
+    cout << "Age          : " << s.age << endl;
+    cout << "Marks        : ";
     for(int i = 0; i < size; i++) {
-        cout << marks[i] << " ";
+        cout << s.marks[i] << " ";
     }
+    cout << endl;
 }
+
+
 
 int main() {
 
@@ -30,7 +38,6 @@ int main() {
         s1.marks[i] = temp[i];
     }
 
-    displayStudent(s1.marks, 5);
     displayStudent(s1, 5);
 
     return 0;

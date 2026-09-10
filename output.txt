@@ -1,1 +1,5 @@
-90 80 70 60 50 
+Student Name : Vibhu
+Class        : B.Tech
+Roll No.     : 21
+Age          : 20
+Marks        : 90 80 70 60 50 
