@@ -41,3 +41,18 @@ public:
     }
 };
 
+int main() {
+    Rectangle r(10, 5);
+    Circle c(7);
+
+    Shape* ptr;
+
+    ptr = &r;
+    ptr->display();
+    ptr->area();
+
+    ptr = &c;
+    ptr->area();
+
+    return 0;
+}
