@@ -33,9 +33,8 @@ int main() {
     s1.roll = 21;
     s1.age = 20;
 
-    int temp[5] = {90, 80, 70, 60, 50};
     for(int i = 0; i < 5; i++) {
-        s1.marks[i] = temp[i];
+        cin>>s1.marks[i];
     }
 
     displayStudent(s1, 5);
