@@ -1,9 +1,9 @@
-Default Constructor Called
+Parametrized Constructor Called
 School Name: ABC School
 Strength: 500
 Location: New York
 
-Default Constructor Called
+Parametrized Constructor Called
 School Name: XYZ School
 Strength: 600
 Location: Los Angeles
