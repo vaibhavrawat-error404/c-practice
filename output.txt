@@ -1,3 +1,4 @@
-Enter name and roll number: 
-Name: Vaibhav
-Roll Number: 0
+Enter name: Enter roll number: Name: Vaibhav Rawat
+Roll Number: 3
+Enter name: Enter roll number: Name: Abhay rawqat
+Roll Number: 12
