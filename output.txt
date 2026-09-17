@@ -1,14 +1,7 @@
-Parametrized Constructor Called
-School Name: ABC School
-Strength: 500
-Location: New York
+Name: Gabbar
+Level: A
+Health: 100
 
-Parametrized Constructor Called
-School Name: XYZ School
-Strength: 600
-Location: Los Angeles
-
-Copy Constructor Called
-School Name: ABC School
-Strength: 500
-Location: New York
+Name: Gabbar
+Level: A
+Health: 100

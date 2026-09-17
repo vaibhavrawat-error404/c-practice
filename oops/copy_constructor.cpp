@@ -13,7 +13,7 @@ class school{
     }
 
     school(string name, int strength, string location){
-        cout<<"Parametrized Constructor Called"<<endl;
+        cout<<"Parametrized Constructor Called"<<endl;  
         this->name=name;
         this->strength=strength;
         this->location=location;
