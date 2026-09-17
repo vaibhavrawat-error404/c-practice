@@ -1,4 +1,9 @@
-Enter name: Enter roll number: Name: Vaibhav Rawat
-Roll Number: 3
-Enter name: Enter roll number: Name: Abhay rawqat
-Roll Number: 12
+Default Constructor Called
+School Name: ABC School
+Strength: 500
+Location: New York
+
+Default Constructor Called
+School Name: XYZ School
+Strength: 600
+Location: Los Angeles
