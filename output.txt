@@ -1,7 +1,0 @@
-Name: Gabbar
-Level: A
-Health: 100
-
-Name: Gabbar
-Level: A
-Health: 100
